@@ -160,8 +160,7 @@ This strong result aligns with:
 
 This project demonstrates how disciplined data inspection, visualization, and modeling lead to accurate and interpretable results.
 
-By understanding feature relationships before training the model, the classification outcome becomes both predictable and explainable.
+By understanding feature relationships before training the model, the classification outcome became both predictable and explainable.
 
 
 
-Tell me the direction you prefer.
