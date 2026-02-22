@@ -3,7 +3,6 @@
 ![Project Banner](https://img.shields.io/badge/Car%20Price%20Prediction-Linear%20Regression-0A66C2?style=for-the-badge\&logo=python\&logoColor=white)
 
 
-![Linear Regression Fit](https://raw.githubusercontent.com/ageron/handson-ml2/master/images/linear_models/linear_model_predictions_plot.png)
 
 ```
 📦 Data → 🔎 Explore → 🔧 Prepare → ✂️ Split → 📈 Train → 📊 Evaluate → 🔮 Predict
